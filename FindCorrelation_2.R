@@ -1,4 +1,4 @@
-~assuming input data (DMI_data) is loaded.
+#assuming input data (DMI_data) is loaded.
 # categorising columns names
   meta <- c("Group", "Initial.Date", "Final.Date")
   randomEffects <- c("LambID", "Animal")
